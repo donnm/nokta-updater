@@ -1,0 +1,11 @@
+This repository contains original source code, tests, and documentation
+licensed under the MIT License (see LICENSE).
+
+The firmware files under firmware/ are proprietary artifacts of Nokta
+Detection Technologies. They are not covered by the MIT License, and no
+license or redistribution rights are granted for them. They are included for
+archival and interoperability research only.
+
+This project is unofficial and is not affiliated with or endorsed by Nokta.
+"Nokta", "The Legend", and related marks are trademarks of their respective
+owners.
